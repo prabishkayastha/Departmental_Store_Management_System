@@ -1,0 +1,171 @@
+c:\users\prabi\onedrive\documents\visual studio 2013\Projects\Department_Store\Department_Store\bin\Debug\Department_Store.exe.config
+c:\users\prabi\onedrive\documents\visual studio 2013\Projects\Department_Store\Department_Store\bin\Debug\Department_Store.exe
+c:\users\prabi\onedrive\documents\visual studio 2013\Projects\Department_Store\Department_Store\bin\Debug\Department_Store.pdb
+c:\users\prabi\onedrive\documents\visual studio 2013\Projects\Department_Store\Department_Store\obj\Debug\Department_Store.csprojResolveAssemblyReference.cache
+c:\users\prabi\onedrive\documents\visual studio 2013\Projects\Department_Store\Department_Store\obj\Debug\Department_Store.login_form.resources
+c:\users\prabi\onedrive\documents\visual studio 2013\Projects\Department_Store\Department_Store\obj\Debug\Department_Store.Properties.Resources.resources
+c:\users\prabi\onedrive\documents\visual studio 2013\Projects\Department_Store\Department_Store\obj\Debug\Department_Store.csproj.GenerateResource.Cache
+c:\users\prabi\onedrive\documents\visual studio 2013\Projects\Department_Store\Department_Store\obj\Debug\Department_Store.exe
+c:\users\prabi\onedrive\documents\visual studio 2013\Projects\Department_Store\Department_Store\obj\Debug\Department_Store.pdb
+C:\Users\prabi\OneDrive\Documents\Visual Studio 2013\Projects\Department_Store\Department_Store\obj\Debug\Department_Store.main_page.resources
+D:\2nd year 1st sem\4th sem\DB\DBMS project\Department_Store\Department_Store\bin\Debug\Department_Store.exe.config
+D:\2nd year 1st sem\4th sem\DB\DBMS project\Department_Store\Department_Store\obj\Debug\Department_Store.exe
+D:\2nd year 1st sem\4th sem\DB\DBMS project\Department_Store\Department_Store\obj\Debug\Department_Store.pdb
+D:\2nd year 1st sem\4th sem\DB\DBMS project\Department_Store\Department_Store\bin\Debug\Department_Store.exe
+D:\2nd year 1st sem\4th sem\DB\DBMS project\Department_Store\Department_Store\bin\Debug\Department_Store.pdb
+D:\2nd year 1st sem\4th sem\DB\DBMS project\Department_Store\Department_Store\obj\Debug\Department_Store.login_form.resources
+D:\2nd year 1st sem\4th sem\DB\DBMS project\Department_Store\Department_Store\obj\Debug\Department_Store.main_page.resources
+D:\2nd year 1st sem\4th sem\DB\DBMS project\Department_Store\Department_Store\obj\Debug\Department_Store.Properties.Resources.resources
+D:\2nd year 1st sem\4th sem\DB\DBMS project\Department_Store\Department_Store\obj\Debug\Department_Store.csproj.GenerateResource.Cache
+D:\2nd year 1st sem\4th sem\DB\DBMS project\Department_Store\Department_Store\obj\Debug\Department_Store.add_product.resources
+D:\2nd year 1st sem\4th sem\DB\DBMS project\Department_Store\Department_Store\obj\Debug\Department_Store.Product_info.resources
+D:\2nd year 1st sem\4th sem\DB\DBMS project\Department_Store\Department_Store\obj\Debug\Department_Store.Product_update.resources
+D:\2nd year 1st sem\4th sem\DB\DBMS project\Department_Store\Department_Store\obj\Debug\Department_Store.csprojResolveAssemblyReference.cache
+D:\KU Project\Department_Store\Department_Store\bin\Debug\Department_Store.exe.config
+D:\KU Project\Department_Store\Department_Store\obj\Debug\Department_Store.exe
+D:\KU Project\Department_Store\Department_Store\obj\Debug\Department_Store.pdb
+D:\KU Project\Department_Store\Department_Store\bin\Debug\Department_Store.exe
+D:\KU Project\Department_Store\Department_Store\bin\Debug\Department_Store.pdb
+D:\KU Project\Department_Store\Department_Store\obj\Debug\Department_Store.csprojResolveAssemblyReference.cache
+D:\KU Project\Department_Store\Department_Store\obj\Debug\Department_Store.add_product.resources
+D:\KU Project\Department_Store\Department_Store\obj\Debug\Department_Store.Product_info.resources
+D:\KU Project\Department_Store\Department_Store\obj\Debug\Department_Store.login_form.resources
+D:\KU Project\Department_Store\Department_Store\obj\Debug\Department_Store.main_page.resources
+D:\KU Project\Department_Store\Department_Store\obj\Debug\Department_Store.Product_update.resources
+D:\KU Project\Department_Store\Department_Store\obj\Debug\Department_Store.Properties.Resources.resources
+D:\KU Project\Department_Store\Department_Store\obj\Debug\Department_Store.csproj.GenerateResource.Cache
+D:\GITHUB\Departmental_Store\Department_Store\bin\Debug\Department_Store.exe.config
+D:\GITHUB\Departmental_Store\Department_Store\obj\Debug\Department_Store.exe
+D:\GITHUB\Departmental_Store\Department_Store\obj\Debug\Department_Store.pdb
+D:\GITHUB\Departmental_Store\Department_Store\bin\Debug\Department_Store.exe
+D:\GITHUB\Departmental_Store\Department_Store\bin\Debug\Department_Store.pdb
+D:\GITHUB\Departmental_Store\Department_Store\obj\Debug\Department_Store.csprojResolveAssemblyReference.cache
+D:\GITHUB\Departmental_Store\Department_Store\obj\Debug\Department_Store.add_product.resources
+D:\GITHUB\Departmental_Store\Department_Store\obj\Debug\Department_Store.Product_info.resources
+D:\GITHUB\Departmental_Store\Department_Store\obj\Debug\Department_Store.login_form.resources
+D:\GITHUB\Departmental_Store\Department_Store\obj\Debug\Department_Store.main_page.resources
+D:\GITHUB\Departmental_Store\Department_Store\obj\Debug\Department_Store.Product_update.resources
+D:\GITHUB\Departmental_Store\Department_Store\obj\Debug\Department_Store.Properties.Resources.resources
+D:\GITHUB\Departmental_Store\Department_Store\obj\Debug\Department_Store.csproj.GenerateResource.Cache
+D:\GITHUB\Departmental_Store\Department_Store\obj\Debug\Department_Store.add_staff.resources
+D:\GITHUB\Departmental_Store\Department_Store\obj\Debug\Department_Store.modify_staff.resources
+D:\4th sem\mini-proj\Departmental_Store\Department_Store\bin\Debug\Department_Store.exe.config
+D:\4th sem\mini-proj\Departmental_Store\Department_Store\obj\Debug\Department_Store.exe
+D:\4th sem\mini-proj\Departmental_Store\Department_Store\obj\Debug\Department_Store.pdb
+D:\4th sem\mini-proj\Departmental_Store\Department_Store\bin\Debug\Department_Store.exe
+D:\4th sem\mini-proj\Departmental_Store\Department_Store\bin\Debug\Department_Store.pdb
+D:\4th sem\mini-proj\Departmental_Store\Department_Store\obj\Debug\Department_Store.csprojResolveAssemblyReference.cache
+D:\4th sem\mini-proj\Departmental_Store\Department_Store\obj\Debug\Department_Store.add_product.resources
+D:\4th sem\mini-proj\Departmental_Store\Department_Store\obj\Debug\Department_Store.add_staff.resources
+D:\4th sem\mini-proj\Departmental_Store\Department_Store\obj\Debug\Department_Store.modify_staff.resources
+D:\4th sem\mini-proj\Departmental_Store\Department_Store\obj\Debug\Department_Store.Product_info.resources
+D:\4th sem\mini-proj\Departmental_Store\Department_Store\obj\Debug\Department_Store.login_form.resources
+D:\4th sem\mini-proj\Departmental_Store\Department_Store\obj\Debug\Department_Store.main_page.resources
+D:\4th sem\mini-proj\Departmental_Store\Department_Store\obj\Debug\Department_Store.Product_update.resources
+D:\4th sem\mini-proj\Departmental_Store\Department_Store\obj\Debug\Department_Store.Properties.Resources.resources
+D:\4th sem\mini-proj\Departmental_Store\Department_Store\obj\Debug\Department_Store.csproj.GenerateResource.Cache
+D:\KU Project\Departmental_Store\Department_Store\bin\Debug\Department_Store.exe.config
+D:\KU Project\Departmental_Store\Department_Store\obj\Debug\Department_Store.exe
+D:\KU Project\Departmental_Store\Department_Store\obj\Debug\Department_Store.pdb
+D:\KU Project\Departmental_Store\Department_Store\bin\Debug\Department_Store.exe
+D:\KU Project\Departmental_Store\Department_Store\bin\Debug\Department_Store.pdb
+D:\KU Project\Departmental_Store\Department_Store\obj\Debug\Department_Store.csprojResolveAssemblyReference.cache
+D:\KU Project\Departmental_Store\Department_Store\obj\Debug\Department_Store.add_product.resources
+D:\KU Project\Departmental_Store\Department_Store\obj\Debug\Department_Store.add_staff.resources
+D:\KU Project\Departmental_Store\Department_Store\obj\Debug\Department_Store.modify_staff.resources
+D:\KU Project\Departmental_Store\Department_Store\obj\Debug\Department_Store.Product_info.resources
+D:\KU Project\Departmental_Store\Department_Store\obj\Debug\Department_Store.login_form.resources
+D:\KU Project\Departmental_Store\Department_Store\obj\Debug\Department_Store.main_page.resources
+D:\KU Project\Departmental_Store\Department_Store\obj\Debug\Department_Store.Product_update.resources
+D:\KU Project\Departmental_Store\Department_Store\obj\Debug\Department_Store.Properties.Resources.resources
+D:\KU Project\Departmental_Store\Department_Store\obj\Debug\Department_Store.csproj.GenerateResource.Cache
+D:\KU Project\Departmental_Store\Department_Store\obj\Debug\Department_Store.add_customer.resources
+D:\KU Project\Departmental_Store\Department_Store\obj\Debug\Department_Store.customer_info.resources
+I:\Departmental_Store\Department_Store\bin\Debug\Department_Store.exe.config
+I:\Departmental_Store\Department_Store\obj\Debug\Department_Store.exe
+I:\Departmental_Store\Department_Store\obj\Debug\Department_Store.pdb
+I:\Departmental_Store\Department_Store\bin\Debug\Department_Store.exe
+I:\Departmental_Store\Department_Store\bin\Debug\Department_Store.pdb
+I:\Departmental_Store\Department_Store\obj\Debug\Department_Store.csprojResolveAssemblyReference.cache
+I:\Departmental_Store\Department_Store\obj\Debug\Department_Store.add_customer.resources
+I:\Departmental_Store\Department_Store\obj\Debug\Department_Store.add_product.resources
+I:\Departmental_Store\Department_Store\obj\Debug\Department_Store.add_staff.resources
+I:\Departmental_Store\Department_Store\obj\Debug\Department_Store.customer_info.resources
+I:\Departmental_Store\Department_Store\obj\Debug\Department_Store.modify_staff.resources
+I:\Departmental_Store\Department_Store\obj\Debug\Department_Store.Product_info.resources
+I:\Departmental_Store\Department_Store\obj\Debug\Department_Store.login_form.resources
+I:\Departmental_Store\Department_Store\obj\Debug\Department_Store.main_page.resources
+I:\Departmental_Store\Department_Store\obj\Debug\Department_Store.Product_update.resources
+I:\Departmental_Store\Department_Store\obj\Debug\Department_Store.Properties.Resources.resources
+I:\Departmental_Store\Department_Store\obj\Debug\Department_Store.csproj.GenerateResource.Cache
+D:\Departmental_Store\Department_Store\bin\Debug\Department_Store.exe.config
+D:\Departmental_Store\Department_Store\obj\Debug\Department_Store.exe
+D:\Departmental_Store\Department_Store\obj\Debug\Department_Store.pdb
+D:\Departmental_Store\Department_Store\bin\Debug\Department_Store.exe
+D:\Departmental_Store\Department_Store\bin\Debug\Department_Store.pdb
+D:\Departmental_Store\Department_Store\obj\Debug\Department_Store.csprojResolveAssemblyReference.cache
+D:\Departmental_Store\Department_Store\obj\Debug\Department_Store.add_customer.resources
+D:\Departmental_Store\Department_Store\obj\Debug\Department_Store.add_product.resources
+D:\Departmental_Store\Department_Store\obj\Debug\Department_Store.add_staff.resources
+D:\Departmental_Store\Department_Store\obj\Debug\Department_Store.customer_info.resources
+D:\Departmental_Store\Department_Store\obj\Debug\Department_Store.modify_staff.resources
+D:\Departmental_Store\Department_Store\obj\Debug\Department_Store.Product_info.resources
+D:\Departmental_Store\Department_Store\obj\Debug\Department_Store.login_form.resources
+D:\Departmental_Store\Department_Store\obj\Debug\Department_Store.main_page.resources
+D:\Departmental_Store\Department_Store\obj\Debug\Department_Store.Product_update.resources
+D:\Departmental_Store\Department_Store\obj\Debug\Department_Store.Properties.Resources.resources
+D:\Departmental_Store\Department_Store\obj\Debug\Department_Store.csproj.GenerateResource.Cache
+D:\GITHUB\Departmental_Store\Department_Store\obj\Debug\Department_Store.add_customer.resources
+D:\GITHUB\Departmental_Store\Department_Store\obj\Debug\Department_Store.customer_info.resources
+D:\GITHUB\Departmental_Store\Department_Store\obj\Debug\Department_Store.edit_customer.resources
+D:\KU Project\Departmental_Store\Department_Store\obj\Debug\Department_Store.edit_customer.resources
+D:\GITHUB\Departmental_Store\Department_Store\obj\Debug\Department_Store.billing.resources
+D:\GITHUB\DepartmentStore\Department_Store\bin\Debug\Department_Store.exe.config
+D:\GITHUB\DepartmentStore\Department_Store\bin\Debug\Department_Store.exe
+D:\GITHUB\DepartmentStore\Department_Store\bin\Debug\Department_Store.pdb
+D:\GITHUB\DepartmentStore\Department_Store\obj\Debug\Department_Store.add_customer.resources
+D:\GITHUB\DepartmentStore\Department_Store\obj\Debug\Department_Store.add_product.resources
+D:\GITHUB\DepartmentStore\Department_Store\obj\Debug\Department_Store.add_staff.resources
+D:\GITHUB\DepartmentStore\Department_Store\obj\Debug\Department_Store.billing.resources
+D:\GITHUB\DepartmentStore\Department_Store\obj\Debug\Department_Store.customer_info.resources
+D:\GITHUB\DepartmentStore\Department_Store\obj\Debug\Department_Store.edit_customer.resources
+D:\GITHUB\DepartmentStore\Department_Store\obj\Debug\Department_Store.modify_staff.resources
+D:\GITHUB\DepartmentStore\Department_Store\obj\Debug\Department_Store.Product_info.resources
+D:\GITHUB\DepartmentStore\Department_Store\obj\Debug\Department_Store.login_form.resources
+D:\GITHUB\DepartmentStore\Department_Store\obj\Debug\Department_Store.main_page.resources
+D:\GITHUB\DepartmentStore\Department_Store\obj\Debug\Department_Store.Product_update.resources
+D:\GITHUB\DepartmentStore\Department_Store\obj\Debug\Department_Store.Properties.Resources.resources
+D:\GITHUB\DepartmentStore\Department_Store\obj\Debug\Department_Store.csproj.GenerateResource.Cache
+D:\GITHUB\DepartmentStore\Department_Store\obj\Debug\Department_Store.exe
+D:\GITHUB\DepartmentStore\Department_Store\obj\Debug\Department_Store.pdb
+D:\GITHUB\DepartmentStore\Department_Store\obj\Debug\Department_Store.order_delivery.resources
+D:\GITHUB\DepartmentStore\Department_Store\obj\Debug\Department_Store.sales_data.resources
+D:\GITHUB\DepartmentStore\Department_Store\obj\Debug\Department_Store.order.resources
+D:\GITHUB\DepartmentStore\Department_Store\obj\Debug\Department_Store.csprojResolveAssemblyReference.cache
+C:\Users\BInaYa\Desktop\DepartmentStore\Department_Store\bin\Debug\Department_Store.exe.config
+C:\Users\BInaYa\Desktop\DepartmentStore\Department_Store\obj\Debug\Department_Store.exe
+C:\Users\BInaYa\Desktop\DepartmentStore\Department_Store\obj\Debug\Department_Store.pdb
+C:\Users\BInaYa\Desktop\DepartmentStore\Department_Store\obj\Debug\Department_Store.csprojResolveAssemblyReference.cache
+C:\Users\BInaYa\Desktop\DepartmentStore\Department_Store\obj\Debug\Department_Store.add_customer.resources
+C:\Users\BInaYa\Desktop\DepartmentStore\Department_Store\obj\Debug\Department_Store.add_product.resources
+C:\Users\BInaYa\Desktop\DepartmentStore\Department_Store\obj\Debug\Department_Store.add_staff.resources
+C:\Users\BInaYa\Desktop\DepartmentStore\Department_Store\obj\Debug\Department_Store.billing.resources
+C:\Users\BInaYa\Desktop\DepartmentStore\Department_Store\obj\Debug\Department_Store.customer_info.resources
+C:\Users\BInaYa\Desktop\DepartmentStore\Department_Store\obj\Debug\Department_Store.edit_customer.resources
+C:\Users\BInaYa\Desktop\DepartmentStore\Department_Store\obj\Debug\Department_Store.modify_staff.resources
+C:\Users\BInaYa\Desktop\DepartmentStore\Department_Store\obj\Debug\Department_Store.new_login.resources
+C:\Users\BInaYa\Desktop\DepartmentStore\Department_Store\obj\Debug\Department_Store.order.resources
+C:\Users\BInaYa\Desktop\DepartmentStore\Department_Store\obj\Debug\Department_Store.order_delivery.resources
+C:\Users\BInaYa\Desktop\DepartmentStore\Department_Store\obj\Debug\Department_Store.Product_info.resources
+C:\Users\BInaYa\Desktop\DepartmentStore\Department_Store\obj\Debug\Department_Store.login_form.resources
+C:\Users\BInaYa\Desktop\DepartmentStore\Department_Store\obj\Debug\Department_Store.main_page.resources
+C:\Users\BInaYa\Desktop\DepartmentStore\Department_Store\obj\Debug\Department_Store.Product_update.resources
+C:\Users\BInaYa\Desktop\DepartmentStore\Department_Store\obj\Debug\Department_Store.Properties.Resources.resources
+C:\Users\BInaYa\Desktop\DepartmentStore\Department_Store\obj\Debug\Department_Store.sales_data.resources
+C:\Users\BInaYa\Desktop\DepartmentStore\Department_Store\obj\Debug\Department_Store.csproj.GenerateResource.Cache
+C:\Users\BInaYa\Desktop\DepartmentStore\Department_Store\bin\Debug\Department_Store.exe
+C:\Users\BInaYa\Desktop\DepartmentStore\Department_Store\bin\Debug\Department_Store.pdb
+D:\GITHUB\Departmental_Store\Department_Store\obj\Debug\Department_Store.new_login.resources
+D:\GITHUB\Departmental_Store\Department_Store\obj\Debug\Department_Store.order.resources
+D:\GITHUB\Departmental_Store\Department_Store\obj\Debug\Department_Store.order_delivery.resources
+D:\GITHUB\Departmental_Store\Department_Store\obj\Debug\Department_Store.sales_data.resources
