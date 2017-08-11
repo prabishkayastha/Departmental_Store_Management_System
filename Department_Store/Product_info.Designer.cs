@@ -109,7 +109,7 @@
             "dairy",
             "grains",
             "jarred__canned",
-            "junk__food",
+            "junk_food",
             "toiletaries"});
             this.comboBox1.Location = new System.Drawing.Point(352, 21);
             this.comboBox1.Name = "comboBox1";

@@ -54,16 +54,34 @@ namespace Department_Store
 
         public void CreateView()
         {
-            Con.Open();
+            
             MySqlCommand command = new MySqlCommand("CREATE VIEW department_store.sales AS (SELECT * FROM department_store.sales_data WHERE timestamp BETWEEN '" + ParseDate(this.dateFrom.Text) + "' AND '" + ParseDate(this.dateTo.Text) + "' or timestamp between '"+ParseDate(this.dateTo.Text)+"' and '"+ParseDate(this.dateFrom.Text)+"')", Con);
-            command.ExecuteNonQuery();
+            Con.Open();
+            try
+            {
+                command.ExecuteNonQuery();
+
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
             Con.Close();
         }
 
         public void DeleteView()
         {
             MySqlCommand command = new MySqlCommand("Drop view department_store.sales",Con);
-            command.ExecuteNonQuery();
+            Con.Open();
+            try
+            {
+                command.ExecuteNonQuery();
+
+            }
+            catch(Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
             Con.Close();
         }
 
@@ -93,6 +111,7 @@ namespace Department_Store
             {
                 MessageBox.Show(ex.Message);
             }
+            Con.Close();
             this.Total.Text = "Rs. "+total+"";
         }
 

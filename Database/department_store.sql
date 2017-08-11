@@ -1,11 +1,11 @@
 -- phpMyAdmin SQL Dump
--- version 4.5.1
--- http://www.phpmyadmin.net
+-- version 4.6.5.2
+-- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Aug 09, 2017 at 01:02 PM
--- Server version: 10.1.13-MariaDB
--- PHP Version: 5.5.37
+-- Generation Time: Aug 11, 2017 at 09:26 AM
+-- Server version: 10.1.21-MariaDB
+-- PHP Version: 5.6.30
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 SET time_zone = "+00:00";
@@ -38,7 +38,9 @@ CREATE TABLE `bakery` (
 --
 
 INSERT INTO `bakery` (`item_name`, `quantity`, `manu_id`, `price`) VALUES
-('Bun', 449, '6', 40.00);
+('Bun', 449, '6', 40.00),
+('Chocolate Cake', 100, '3', 200.00),
+('Vanilla Cake', 500, '3', 300.00);
 
 -- --------------------------------------------------------
 
@@ -58,7 +60,9 @@ CREATE TABLE `beverage` (
 --
 
 INSERT INTO `beverage` (`item_name`, `quantity`, `manu_id`, `price`) VALUES
-('Nepalice', 499, '1', 220.00);
+('Heineken', 1500, '1', 500.00),
+('Nepalice', 499, '1', 220.00),
+('Tuborg', 1000, '1', 250.00);
 
 -- --------------------------------------------------------
 
@@ -72,13 +76,6 @@ CREATE TABLE `cart` (
   `amount` float(20,2) DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
---
--- Dumping data for table `cart`
---
-
-INSERT INTO `cart` (`item_name`, `quantity_added`, `amount`) VALUES
-('Snickers', 9, 1080.00);
-
 -- --------------------------------------------------------
 
 --
@@ -91,6 +88,15 @@ CREATE TABLE `cereal` (
   `manu_id` varchar(20) DEFAULT NULL,
   `price` float(20,2) DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+--
+-- Dumping data for table `cereal`
+--
+
+INSERT INTO `cereal` (`item_name`, `quantity`, `manu_id`, `price`) VALUES
+('Legume', 1500, '1', 80.00),
+('Maize', 1500, '1', 60.00),
+('Wheat', 2000, '1', 50.00);
 
 -- --------------------------------------------------------
 
@@ -148,6 +154,14 @@ CREATE TABLE `dairy` (
   `price` float(20,2) DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
+--
+-- Dumping data for table `dairy`
+--
+
+INSERT INTO `dairy` (`item_name`, `quantity`, `manu_id`, `price`) VALUES
+('Butter Milk', 1500, '8', 100.00),
+('Whole Milk', 1000, '7', 75.00);
+
 -- --------------------------------------------------------
 
 --
@@ -178,7 +192,9 @@ CREATE TABLE `grains` (
 --
 
 INSERT INTO `grains` (`item_name`, `quantity`, `manu_id`, `price`) VALUES
-('Apple Rice', 1000, '1', 100.00);
+('Apple Rice', 1000, '1', 100.00),
+('Basmati Rice', 2000, '1', 120.00),
+('Sangram Rice', 1500, '1', 80.00);
 
 -- --------------------------------------------------------
 
@@ -193,6 +209,14 @@ CREATE TABLE `jarred__canned` (
   `price` float(20,2) DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
+--
+-- Dumping data for table `jarred__canned`
+--
+
+INSERT INTO `jarred__canned` (`item_name`, `quantity`, `manu_id`, `price`) VALUES
+('Jam', 1000, '9', 150.00),
+('Mango Pickle', 1500, '10', 250.00);
+
 -- --------------------------------------------------------
 
 --
@@ -205,6 +229,17 @@ CREATE TABLE `junk_food` (
   `manu_id` varchar(20) DEFAULT NULL,
   `price` float(20,2) DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+--
+-- Dumping data for table `junk_food`
+--
+
+INSERT INTO `junk_food` (`item_name`, `quantity`, `manu_id`, `price`) VALUES
+('Chau Chau', 2000, '1', 20.00),
+('Kurkure', 2500, '1', 50.00),
+('Lays', 2000, '1', 40.00),
+('Papad', 1500, '1', 25.00),
+('Prawn', 1700, '1', 50.00);
 
 -- --------------------------------------------------------
 
@@ -233,7 +268,7 @@ INSERT INTO `login` (`username`, `password`, `staff_id`) VALUES
 
 CREATE TABLE `manufacturer` (
   `manu_id` varchar(10) NOT NULL,
-  `manu_name` varchar(20) DEFAULT NULL,
+  `manu_name` varchar(40) DEFAULT NULL,
   `address` varchar(20) DEFAULT NULL,
   `phone_num` varchar(15) DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
@@ -244,11 +279,16 @@ CREATE TABLE `manufacturer` (
 
 INSERT INTO `manufacturer` (`manu_id`, `manu_name`, `address`, `phone_num`) VALUES
 ('1', 'Chaudhary_group', 'Kathmandu', '9841658752'),
+('10', 'Pickle Supply', 'Banepa', '98808457898'),
+('11', 'Toiletaries Supply', 'Chitwan', '9845658725'),
 ('2', 'Cadbury', 'Kathmandu', '9841488752'),
 ('3', 'Mars', 'Bhaktapur', '9818658752'),
 ('4', 'Nestle', 'Birgunj', '9841689752'),
 ('5', 'Bourborn', 'Kathmandu', '9841658352'),
-('6', 'Lottee', 'Biratnagar', '9841455252');
+('6', 'Lottee', 'Biratnagar', '9841455252'),
+('7', 'Biratnagar Milk Supply', 'Biratnagar', '9842458778'),
+('8', 'Kathmandu Milk Supply', 'Kathmandu', '9841543248'),
+('9', 'Jam Manufacturer', 'Birgunj', '9843568978');
 
 -- --------------------------------------------------------
 
@@ -469,7 +509,7 @@ INSERT INTO `sales_data` (`bill_no`, `amount`, `cust_id`, `timestamp`) VALUES
 CREATE TABLE `staff` (
   `Staff_ID` varchar(10) NOT NULL,
   `staff_name` varchar(32) DEFAULT NULL,
-  `sex` int(10) NOT NULL,
+  `sex` varchar(10) NOT NULL,
   `Designation` varchar(10) DEFAULT NULL,
   `phone_num` varchar(11) DEFAULT NULL,
   `address` varchar(10) DEFAULT NULL,
@@ -481,10 +521,10 @@ CREATE TABLE `staff` (
 --
 
 INSERT INTO `staff` (`Staff_ID`, `staff_name`, `sex`, `Designation`, `phone_num`, `address`, `salary`) VALUES
-('1', 'Prabish', 0, 'manager', '2147483647', 'Banepa', 50000),
-('2', 'Rasil', 0, 'salesboy', '9813548698', 'Banepa', 6000),
-('3', 'susmita', 0, 'accountant', '9843547815', 'Panauti', 12000),
-('5', 'Birat', 0, 'salesman', '9841543745', 'Sanga', 5000);
+('1', 'Prabish', 'Male', 'manager', '2147483647', 'Banepa', 50000),
+('2', 'Rasil', 'Male', 'salesboy', '9813548698', 'Banepa', 6000),
+('3', 'susmita', 'Female', 'accountant', '9843547815', 'Panauti', 12000),
+('5', 'Birat', 'Male', 'salesman', '9841543745', 'Sanga', 5000);
 
 -- --------------------------------------------------------
 
@@ -498,6 +538,16 @@ CREATE TABLE `toiletaries` (
   `manu_id` varchar(20) DEFAULT NULL,
   `price` float(20,2) DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+--
+-- Dumping data for table `toiletaries`
+--
+
+INSERT INTO `toiletaries` (`item_name`, `quantity`, `manu_id`, `price`) VALUES
+('Dettol Hand Wash', 1500, '11', 80.00),
+('Dettol Soap', 2500, '11', 100.00),
+('Lifeboy Soap', 2500, '11', 45.00),
+('Toilet Paper', 2000, '11', 50.00);
 
 --
 -- Indexes for dumped tables
